@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://www.mundowellness.xyz
+Data file = /var/www/html/wp-content/themes/business-consultr/ocdi/business-consultr.xml
+Widget file = /var/www/html/wp-content/themes/business-consultr/ocdi/business-consultr.wie
+Customizer file = /var/www/html/wp-content/themes/business-consultr/ocdi/business-consultr.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Texto - Business Consultr - Widget already exists
+Custom HTML - Opening Hours - Widget already exists
+Categorías - Categories - Widget already exists
+Galería - Event Gallery - Widget already exists
+
+Footer1 : 
+
+Texto - Business Consultr - Widget already exists
+
+Footer2 : 
+
+Custom HTML - Opening Hours - Widget already exists
+
+Footer3 : 
+
+Categorías - Categories - Widget already exists
+
+Footer4 : 
+
+Galería - Event Gallery - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
